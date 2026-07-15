@@ -1,3 +1,13 @@
+
+
+https://github.com/user-attachments/assets/2c93ee39-a72a-4017-8a68-0b2748577c95
+
+
+
+https://github.com/user-attachments/assets/790eb5a1-4e8a-4fd1-9483-59eeb64ccb15
+
+
+
 use venv to activate this enironment
 
 
